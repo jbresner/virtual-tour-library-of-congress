@@ -1,4 +1,4 @@
-# Virtual Tour of the Library of Congress
+Virtual Tour of the Library of Congress
 This proof of concept was used to demonstrate the use of the Marzipano Tool in creating a virtual tour stitching together several 360° photos and adding hotspots on images explaining key details about those spaces.
 
 
